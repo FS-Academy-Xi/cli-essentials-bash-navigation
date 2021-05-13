@@ -252,13 +252,13 @@ For example let's say we have the following directory structure with two sub-
 directories:
 
 ```bash
-flatiron_school/
-flatiron_building/
+academyxi_school/
+academyxi_building/
 ```
 
 If I type `$ cd f` and then hit tab, it will fill in everything up until the
-conflict so I'll see `$ cd flatiron_`.  If I then add the `s` and hit tab it
-will fill in `$ cd flatiron_school` and I can hit enter.
+conflict so I'll see `$ cd academyxi_`.  If I then add the `s` and hit tab it
+will fill in `$ cd academyxi_school` and I can hit enter.
 
 ## Conclusion
 
